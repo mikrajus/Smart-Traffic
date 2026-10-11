@@ -1,0 +1,17 @@
+# Rahasia (JANGAN PERNAH di-commit)
+serviceAccountKey.json
+*firebase-adminsdk*.json
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
