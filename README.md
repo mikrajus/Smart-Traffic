@@ -1,7 +1,7 @@
 # Smart Traffic & Pollution Monitoring System
 
-Sistem monitoring lalu lintas dan polusi berbasis IoT simulator (Node-RED),
-Machine Learning, FastAPI, Firebase Firestore, Web (React), dan Mobile (Flutter).
+Sistem monitoring lalu lintas dan polusi berbasis IoT simulator, Machine Learning,
+FastAPI, Firebase Firestore, Web (React), dan Mobile (Flutter).
 
 ## Status
 
@@ -18,10 +18,6 @@ Node-RED -> FastAPI (validasi + ML) -> Firestore -> Web & Mobile
 - web/ : dashboard admin (React)
 - mobile/ : aplikasi Flutter
 - docs/ : dokumentasi
-
-## Konvensi commit
-
-feat: fitur baru | fix: perbaikan bug | docs: dokumentasi | chore: setup/rutin
 
 ## Memulai
 
